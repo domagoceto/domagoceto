@@ -1,7 +1,8 @@
 # Kadir
 
 ### Connect with me:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-çetin-420274221/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-%C3%A7etin-420274221/)
+
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
