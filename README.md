@@ -13,8 +13,9 @@ Hi, i am computer engineer in Turkey
 ### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-%C3%A7etin-420274221/)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cetin_kadirrrr/)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:kadircetin.inu@gmail.com)
 
-📧 Email: kadircetin.inu@gmail.com
+
 
 
 
