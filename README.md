@@ -2,7 +2,7 @@
 Hi, i am computer engineer in Turkey
 
 ### Languages and Tools:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?&style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?&style=flat&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
