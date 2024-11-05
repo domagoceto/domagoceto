@@ -1,9 +1,5 @@
 # Kadir
-A computer engineer in Turkey
-
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-%C3%A7etin-420274221/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cetin_kadirrrr/)
+Hi, i am computer engineer in Turkey
 
 ### Languages and Tools:
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white)
@@ -13,6 +9,12 @@ A computer engineer in Turkey
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadir-%C3%A7etin-420274221/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cetin_kadirrrr/)
+
+📧 Email: kadircetin.inu@gmail.com
 
 
 
