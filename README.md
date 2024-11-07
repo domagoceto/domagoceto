@@ -9,7 +9,6 @@ Hi, i am computer engineer in Turkey
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?&style=flat&logo=react&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?&style=flat&logo=kotlin&logoColor=white)
 
 
 ### Connect with me:
