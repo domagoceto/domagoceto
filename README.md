@@ -8,6 +8,7 @@ Hi, i am computer engineer in Turkey
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23F7DF1E.svg?&style=flat&logo=java&logoColor=white)
 
 
 ### Connect with me:
